@@ -1,2 +1,2 @@
-# leonardmk.github.io
+# Leonardmk.github.io
 My personal stats blog
